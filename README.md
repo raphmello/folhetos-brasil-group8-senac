@@ -28,3 +28,6 @@
 ```
 https://folhetos-brasil-group8-senac.herokuapp.com/swagger-ui/index.html
 ```
+
+### YOUTUBE - Instruções em vídeo de como testar a API
+`https://www.youtube.com/watch?v=fSchrDr9pRU`
