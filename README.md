@@ -21,6 +21,7 @@
     - execute: `mvn spring-boot:run -Dspring-boot.run.profiles=dev`
 - Executar o projeto localmente (pelo método main):
     - Executar o método `main` da classe `FolhetosBrasilApplication.java`
+- Acessar a URL: `http://localhost:8080/swagger-ui/index.html`
   
 ### HEROKU
 - Este projeto está hospedado no Heroku na seguinte URL: 
